@@ -49,7 +49,7 @@
 
 
 
-// Check age--------------------
+// Check age-----------------
 
 // function checkAge(age) {
 //     if (age < 21) {
